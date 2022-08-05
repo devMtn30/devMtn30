@@ -3,3 +3,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devMtn30&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tksml13)](https://solved.ac/tksml13/)
+
+# Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMtn30&layout=compact&theme=tokyonight)
